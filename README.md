@@ -20,7 +20,7 @@ _**Resultado del análisis**_
 ![image](https://github.com/user-attachments/assets/cc4013d2-46cb-4190-963a-d4b01f1cc6cf)
 
 4. El sábado es el día que más ventas tiene, mientras que los jueves es cuando menos ventas hay.
-   ![image](https://github.com/user-attachments/assets/2afb13d3-3824-4cb1-84f3-d082a7d5fa21)
+ ![image](https://github.com/user-attachments/assets/2afb13d3-3824-4cb1-84f3-d082a7d5fa21)
 
 5.De las ventas del 2023 el mes que más ventas tuvo fue mayo mientras que setiembre fue el peor mes en ventas.
 ![image](https://github.com/user-attachments/assets/51296c05-eef7-4da4-841a-4c49776b0e74)
@@ -28,3 +28,6 @@ _**Resultado del análisis**_
 
 _**Recomendaciones**_
 
+1.Hacer promociones en el mes de Septiembre y marzo que son los meses de menores ventas.
+
+[CASO PRACTICO.xlsx](https://github.com/user-attachments/files/16272884/CASO.PRACTICO.xlsx)
